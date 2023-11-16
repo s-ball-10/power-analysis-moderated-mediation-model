@@ -1,4 +1,4 @@
-# Power Analysis for moderated mediation models
+# Power analysis for moderated mediation models
 This repository provides the code for doing power analyis for moderated mediation models using monte carlo simulations.
 
 # Background
